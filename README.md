@@ -1,6 +1,6 @@
 # Hi there, I'm Cristopher Baca 👋
 
-**Computer Science Undergraduate | Multidisciplinary Project Leader | Mathematician | Python Programmer**
+**Engineering Computer Science Undergraduate student | Multidisciplinary Project Leader | Mathematician | Python Programmer**
 
 I believe everyone has an incredible capacity to **learn, create, and build something meaningful**. But potential alone isn't always enough. Access to the right tools, guidance, and opportunities can turn that potential into real growth.
 
