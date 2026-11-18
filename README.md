@@ -1,4 +1,4 @@
-# Hi there, I'm Cristopher Baca 👋
+# Hi there, I'm Cristopher Baca 👋 | All my repositories are private because I don't develop OpenSource projects.
 
 **Engineering Computer Science Undergraduate student | Multidisciplinary Project Leader | Mathematician | Python Programmer**
 
